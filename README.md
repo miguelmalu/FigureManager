@@ -4,5 +4,5 @@
 	Polymorphism
 #### Figure Manager
 	Circle, Rectangle, Square, Triangle
-- Sum Areas
-- Sort Figures
+- **Sum** Areas  
+- **Sort** Figures  
