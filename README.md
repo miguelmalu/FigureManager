@@ -3,6 +3,6 @@
 ### 1st Challenge
 	Polymorphism
 #### Figure Manager
-	Circle, Rectangle, Square, Triangle
+	Circle, Rectangle, Square and Triangle
 - **Sum** Areas  
 - **Sort** Figures  
